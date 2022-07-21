@@ -1,0 +1,12 @@
+set up:
+pip install opencv-python
+sudo pip install mediapipe
+
+run program:
+python3 <program-name>
+
+run module:
+python3 -m PoseEstimationModule
+
+video:
+video download from: https://www.youtube.com/watch?v=-CeLBsqU6qw
